@@ -8,8 +8,8 @@
  🔭 I’m currently working on ...Python Scrips / Malware Analysis 
  🌱 I’m currently learning ... Ethical Hacking
  👯 I’m looking to collaborate on ... student projects
- 📫 How to reach me: ...2004003@uad.ac.uk
- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julie-whyte-924776353)
+
+ LinkedIn:(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julie-whyte-924776353)
  
  🛠️ Technologies & Tools
 💻 Languages: Python, Kotlin
